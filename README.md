@@ -1,3 +1,8 @@
+The following application is a demo for a blog series I have created using React Hooks. You can find the associated blogs posted here: 
+
+*insert blog link*
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
